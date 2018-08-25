@@ -1,6 +1,6 @@
 # PhoneGallery
 
-ReactNative project for demonsration purpose. 
+ReactNative project for demonstration purpose. 
 
 ### Used Technologies
 
