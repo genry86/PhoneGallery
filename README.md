@@ -6,7 +6,7 @@ ReactNative project for demonstration purpose.
 
 * Redux
 * Redux Logic
-* Bibary blobs
+* Binary blobs
 
 ### Notes
 
